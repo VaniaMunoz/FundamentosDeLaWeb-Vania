@@ -20,3 +20,18 @@ Tablas: <table> con <tr>anidada (filas de tabla) que contiene anidadas <th> o <t
 Película	Año	    Calificación
 Up	        2009	PG
 Matrix	    1999	R
+
+Padre, Hijo, Hermano
+En los ejemplos de código anteriores, las etiquetas como <li> o <td> siempre se usan dentro de otras etiquetas como
+
+<ul>o <tr>.Cuando una etiqueta HTML está anidada dentro de otra etiqueta, llamamos a la etiqueta interior “hijo” de la etiqueta exterior. Las etiquetas hijo adyacentes, como las <li> múltiples, se consideran hermanas entre sí
+
+Imágenes: <img>
+
+Atributos importantes: src(la ruta del archivo de imagen)alt
+
+Videos: <video>
+
+Atributos importantes: src(la ruta del archivo de video) y
+
+Si queremos que un video se reproduzca de forma automática en navegadores modernos, debemos incluir autoplay, loop y muted.  (loop=bucle)
