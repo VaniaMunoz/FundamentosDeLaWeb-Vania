@@ -11,6 +11,11 @@ Hipervínculos (etiquetas de anclaje): <a>
 
 Atributo importante: href (la URL a la que se enruta)
 
+
+Emphasis y Strong: <strong> and <em> se utilizan a menudo dentro de los párrafos <p>
+<p><em>Este</em> es un <strong>ejemplo!</strong></p>    em o strong=cursiva
+
+
 Listas desordenadas (viñetas): <ul> con <li> anidada que contiene los elementos de la lista
 
 Listas ordenadas (numeradas): <ol> con <li> anidada que contiene los elementos de la lista
