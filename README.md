@@ -7,3 +7,16 @@
 -El servidor al que intentamos llegar responde con algún tipo de contenido. Tal vez sean resultados de búsqueda, el perfil de un amigo o contenido de video. En todos estos casos, este contenido se proporciona al cliente como una combinación de HTML, CSS y JavaScript.
 
 
+Hipervínculos (etiquetas de anclaje): <a>
+
+Atributo importante: href (la URL a la que se enruta)
+
+Listas desordenadas (viñetas): <ul> con <li> anidada que contiene los elementos de la lista
+
+Listas ordenadas (numeradas): <ol> con <li> anidada que contiene los elementos de la lista
+
+Tablas: <table> con <tr>anidada (filas de tabla) que contiene anidadas <th> o <td> para el encabezado o las celdas de datos regulares, respectivamente ,columnas y fila x
+
+Película	Año	    Calificación
+Up	        2009	PG
+Matrix	    1999	R
