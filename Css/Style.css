@@ -41,10 +41,9 @@ p {
 }
 
 body {
-    background-image: url("images.jpg") ;
+    background-image: url("paisajes-chile-20180202-15.jpg") ;
     background-position: left;
-    background-size: 100pt;
+    background-size: 100%;
     background-repeat: no-repeat;
-
 }
 
