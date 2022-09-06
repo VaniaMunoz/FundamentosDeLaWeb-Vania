@@ -1,0 +1,61 @@
+/* CSS reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+  /* Clase fixed-width container que se "autocentrará" a sí misma */
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  box-shadow: 4px 4px 4px grey;
+}
+
+.btn {
+  background-color: rgba(255, 255, 255, 0.925);
+  color: cadetblue;
+  border: 2px solid cadetblue ;
+  padding: 4px 35px;
+  border-radius:25px;
+}
+
+.row { 
+  display: flex;
+}
+
+.col {
+  width: 220px;
+  padding: 10px;
+  background-color: blanchedalmond;
+  display: inline-block;
+}
+
+.navbar {
+  color: white;
+  background-color: black;
+  height: 80px;
+  width: 1900px;
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-title {
+  margin-left: 20px;
+}
+
+.nav-links {
+  display: flex;
+  width: 50%;
+  align-items: center;
+  justify-content: space-around;
+  list-style-type: none;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+}
