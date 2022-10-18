@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.row {
+    display: flex;
+}
+.row2 {
+    display: flex;
+    height: 400px;
+}
+.row3 {
+    display: flex;
+    height: 150px;
+}
+
+.col {
+    flex: 1;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgb(0, 255, 255);
+}  
+.col-2 {
+    flex: 2;
+    padding: 20px;
+    margin: 10px;
+    background-color: palegreen;
+}
+.container{
+    padding: 10px 70px 10px 70px;
+}
+
+li {
+    justify-content: space-evenly;
+    display: flex;
+}
+
+ul {
+    
+}
